@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "873030490546",
+    "project_id": "chat-38d0a",
+    "storage_bucket": "chat-38d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873030490546:android:b55cdfee37c92151052cab",
+        "android_client_info": {
+          "package_name": "com.example.secure_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873030490546-2qkcrgbgegvdl30igpja8r2v9ti21sk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.secure_chat",
+            "certificate_hash": "10ac51225c0d0cc6f7690d7225cd54de5118259d"
+          }
+        },
+        {
+          "client_id": "873030490546-onoecv9beqrkf91ar9l0h1ldbu1h6b3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUlj9GI0vC1cNS7yK6_Jk70PzMUE8BtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873030490546-onoecv9beqrkf91ar9l0h1ldbu1h6b3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873030490546-oamsbonc33f4kaanm2t209r7l3gbgbs5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.secureChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
